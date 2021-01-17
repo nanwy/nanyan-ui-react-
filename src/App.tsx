@@ -17,6 +17,10 @@ const App: React.FC = () => {
       <Button btnType={ButtonType.Link} href="http://www.baidu.com" disabled>
         Baidu
       </Button>
+
+      <Button btnType={ButtonType.Link} href="http://www.baidu.com" disabled>
+        Baidu
+      </Button>
     </div>
   );
 };
